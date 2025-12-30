@@ -1,2 +1,1 @@
-# axie-infinity-hck
-This software automates all tasks involved in managing Axie Infinity scholars, and is designed specifically for managers overseeing large scholar rosters.
+[<img width="350" height="" alt="image" src="https://github.com/user-attachments/assets/3681ca12-8a3b-4ea4-b29b-cb00c9cc84f3" />]()
